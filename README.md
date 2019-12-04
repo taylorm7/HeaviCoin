@@ -1,0 +1,2 @@
+# HeaviCoin
+Algorithmic Trading
